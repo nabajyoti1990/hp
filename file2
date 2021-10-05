@@ -1,3 +1,9 @@
 this is file 2
+<<<<<<< HEAD
 line 1 in file 2
 line 2 in file 2
+=======
+line 3
+line 4
+line 5
+>>>>>>> 6a06db32db944cc67c9ce435576ab37ba739cdcc
